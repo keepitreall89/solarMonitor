@@ -22,7 +22,7 @@ function conky_main()
 	local minCPUTemp = 23
 	
 	--true to have the planets move representing current positions of planets.
-	local solarMap = false
+	local solarMap = true
 	-- False to disable astroid belt, true to enable.
 	local solarExtras = true
 	
